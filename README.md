@@ -28,6 +28,10 @@
   <img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/698428639339085837/1009301959959908383/ezgif-3-042565b380.gif">
 </div>
 
+##
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
