@@ -8,6 +8,7 @@
   <a href="https://github.com/RafaelM4gn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelM4gn&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM4gn&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="//picrew.me/image_maker/197705"><img align="right" alt="Rafa-pic" height="178" width="178" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009301959959908383/ezgif-3-042565b380.gif">
 </div>
 
 ## Technologies and tools..
@@ -24,8 +25,8 @@
   <a href="//git-scm.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <a href="//lua.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   <a href="//neovim.io"><img width="40" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4">
-  <a href="//picrew.me/image_maker/197705"><img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/698428639339085837/1009301959959908383/ezgif-3-042565b380.gif">
 </div>
+
 
 ##
 
