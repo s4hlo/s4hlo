@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafa 👋😀
 
-<a align="left" href="//picrew.me/image_maker/197705"/><img align="right" alt="Rafa-pic" height="150" width="150" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009476158062076116/output-onlinegiftools.gif"/></a>
+<a align="left" href="//picrew.me/image_maker/197705"/><img align="right" alt="Rafa-pic" height="200" width="200" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009476158062076116/output-onlinegiftools.gif"/></a>
   
 - 🌱 Atualmente estou estudando Vue js e me familiarizando com o Vim 😅
 - 👯 Procuro me tornar um desenvolvedor FullStack
