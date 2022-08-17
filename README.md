@@ -4,12 +4,10 @@
   
 - 🌱 Atualmente estou estudando Vue js e me familiarizando com o Vim 😅
 - 👯 Procuro me tornar um desenvolvedor FullStack
-- fdsafdasfdsa
-- fdasfasdfdasfdsfads
-- fdsafdafdsafds
-- fdasfdasfasfadsf
-- dasfdasfasfadsf
-- dsafdasfdasfs
+- 
+- 
+- 
+- 
 
 
 ##
