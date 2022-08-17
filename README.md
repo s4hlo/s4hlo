@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM4gn&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-## Technologies and tools..
+## Technologies and tools..(com links)
    
 <div style="display: inline_block"><br>
   <a href="//www.java.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </a>
