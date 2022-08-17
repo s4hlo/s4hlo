@@ -34,5 +34,6 @@
   <a href="//neovim.io"><img width="40" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"> </a>
 </div>
 
-
 ##
+
+![Snake⋅animation](https://github.com/RafaelM4gn/RafaelM4gn/blob/output/github-contribution-grid-snake.svg)↴
