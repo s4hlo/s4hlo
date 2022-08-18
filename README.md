@@ -42,6 +42,6 @@
 
 ![Snake⋅animation](https://github.com/RafaelM4gn/RafaelM4gn/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=RafaeM4gn&color=yellow)
+![](https://komarev.com/ghpvc/?username=RafaeM4gn&color=grey)
 ↴
 
