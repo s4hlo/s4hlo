@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Rafa 👋😀
 
-<a align="left" href="//picrew.me/image_maker/197705"/><img align="right" alt="Rafa-pic" height="160" width="160" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009476158062076116/output-onlinegiftools.gif"/></a>
+<a align="left" href="//picrew.me/image_maker/197705"/><img align="right" alt="Rafa-pic" height="160" width="160" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009476158062076116/output-onlinegiftools.gif"/>
+</a>
+
   
 - 🌱 Atualmente estou estudando [Vue.js](//vuejs.org) e me familiarizando com o [Vim](//neovim.io) 😅
 - 👯 Procuro me tornar um desenvolvedor FullStack
@@ -38,4 +40,8 @@
 
 ##
 
-![Snake⋅animation](https://github.com/RafaelM4gn/RafaelM4gn/blob/output/github-contribution-grid-snake.svg)↴
+![Snake⋅animation](https://github.com/RafaelM4gn/RafaelM4gn/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=RafaeM4gn&color=green)
+↴
+
