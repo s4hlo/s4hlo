@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
+
 ### Olá! Eu sou o Rafa 👋😀
 
 <a align="left" href="//picrew.me/image_maker/197705"/><img align="right" alt="Rafa-pic" height="160" width="160" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009476158062076116/output-onlinegiftools.gif"/>
@@ -42,6 +44,8 @@
 ##
 
 ![Snake⋅animation](https://github.com/RafaelM4gn/RafaelM4gn/blob/output/github-contribution-grid-snake.svg)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
 ![](https://komarev.com/ghpvc/?username=RafaeM4gn&color=grey)
 ↴
