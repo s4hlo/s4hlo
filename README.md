@@ -39,6 +39,7 @@
   <a href="//git-scm.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </a>
   <a href="//lua.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> </a>
   <a href="//neovim.io"><img width="40" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"> </a>
+  <a href="//unity.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> </a>
 </div>
 
 ##
