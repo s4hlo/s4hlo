@@ -12,7 +12,6 @@
 - 🎓 Cursando o Bacharelado em Tecnologia da Informação pela UFRN
 - 🎮 Gosto de jogos, mangas, cinema e tecnologias
 - 🌌 El Psy Congroo
-- 💖 Yooxy
 
 
 ##
