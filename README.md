@@ -28,6 +28,7 @@
   <a href="//www.python.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
   <a href="//cplusplus.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> </a>
   <a href="//docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </a>
+  <a href="//reactjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>    
   <a href="//vitejs.dev"><img width="40" src="pics/vite.svg"> </a>
   <a href="//vuejs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> </a>
   <a href="//nuxtjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> </a>
