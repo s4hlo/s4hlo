@@ -6,7 +6,7 @@
 </a>
 
   
-- 🌱 Atualmente estou estudando [Vue.js](//vuejs.org) e me familiarizando com o [Vim](//neovim.io) 😅
+- 🌱 Atualmente estou estudando [Reactjs](//reactjs.org) e me familiarizando com o [TailWind](//tailwindcss.com) 😅
 - 👯 Procuro me tornar um desenvolvedor FullStack
 - 📚 Autodidata
 - 🎓 Cursando o Bacharelado em Tecnologia da Informação pela UFRN
