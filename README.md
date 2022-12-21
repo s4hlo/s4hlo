@@ -6,7 +6,7 @@
 </a>
 
   
-- 🌱 Atualmente estou estudando [Reactjs](//reactjs.org) e me familiarizando com o [TailWind](//tailwindcss.com) 😅
+- 🌱 Atualmente estou estudando [React.js](//reactjs.org) e me familiarizando com o [TailWind](//tailwindcss.com) 😅
 - 👯 Procuro me tornar um desenvolvedor FullStack
 - 📚 Autodidata
 - 🎓 Cursando o Bacharelado em Tecnologia da Informação pela UFRN
