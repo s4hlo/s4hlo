@@ -8,7 +8,7 @@
   
 
 - 🌌 El Psy Congroo
-- ?
+- 🫡 I can learn anything
 - ?
 - ?
 - ?
