@@ -28,7 +28,6 @@
 <div style="display: inline_block"><br>
   <a href="//www.java.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </a>
   <a href="//www.python.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
-  <a href="//lua.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> </a>
   <a href="//cplusplus.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> </a>
   <a href="//docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </a>
   <a href="//flask.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> </a>
@@ -40,13 +39,11 @@
   <a href="//nuxtjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> </a>
   <a href="//vuetify.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> </a>
   <a href="//flask.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"> </a>
-  <a href="//eslint.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /> </a>
   <a href="//flask.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> </a>
   <a href="//figma.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> </a>
   <a href="//nestjs.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> </a>
   <a href="//flask.palletsprojects.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> </a>
   <a href="//docker.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a>
-  <a href="//neovim.io"><img width="40" src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4"> </a>
   <a href="//unity.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> </a>
   
   
