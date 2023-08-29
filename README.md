@@ -10,7 +10,7 @@
 - 🌌 El Psy Congroo
 - 🫡 I can learn anything
 - ⌛ Milestone
-- ?
+- 🦅 Wings
 - ?
 - ?
 
