@@ -2,8 +2,6 @@
 
 ### Hello!👋😀
 
-<a align="left" href="//picrew.me/image_maker/197705"/><img align="right" alt="Rafa-pic" height="160" width="160" style="border:5px solid black" src="https://cdn.discordapp.com/attachments/698428639339085837/1009476158062076116/output-onlinegiftools.gif"/>
-</a>
 
   
 
