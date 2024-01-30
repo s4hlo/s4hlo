@@ -50,10 +50,10 @@
 
 ##
 
-![Snake⋅animation](https://github.com/RafaelM4gn/RafaelM4gn/blob/output/github-contribution-grid-snake.svg)
+![Snake⋅animation](https://github.com/s4hlo/s4hlo/blob/output/github-contribution-grid-snake.svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&height=90)
 
-![](https://komarev.com/ghpvc/?username=RafaeM4gn&color=grey)
+![](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
 ↴
 
