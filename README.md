@@ -30,7 +30,7 @@
   <!--  <a href="//cplusplus.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> </a> -->
   <!--  <a href="//docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </a> -->
   <a href="//typescriptlang.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> </a>
-  <a href="//nestjs.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> </a>
+  <a href="//nestjs.com"><img width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> </a>
   <!--  <a href="//flask.palletsprojects.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> </a> -->
   <a href="//reactjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>   
   <a href="//nextjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </a>
