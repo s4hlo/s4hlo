@@ -44,8 +44,6 @@
   <a href="//docker.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a>
   <!--  <a href="//mysql.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> </a> -->
   <a href="//www.postgresql.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
-
-  
 </div>
 
 ##
@@ -55,9 +53,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s4hlo/s4hlo/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake⋅animation](https://github.com/s4hlo/s4hlo/blob/output/github-contribution-grid-snake.svg)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&height=90)
 
 ![](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
 ↴
