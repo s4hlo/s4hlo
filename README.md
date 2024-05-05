@@ -33,25 +33,20 @@
   <a href="//nestjs.com"><img width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> </a>
   <!--  <a href="//flask.palletsprojects.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> </a> -->
   <a href="//reactjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>   
-  <a href="//nextjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </a>
+<!--   <a href="//nextjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </a> -->
   <a href="//vitejs.dev"><img width="40" src="pics/vite.svg"> </a>
   <!--  <a href="//vuejs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> </a> -->
   <!--  <a href="//nuxtjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> </a> -->
   <!--  <a href="//vuetify.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> </a> -->
-  <a href="//mui.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"> </a>
-  <a href="//jest.io"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> </a>
+<!--   <a href="//mui.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"> </a> -->
+<!--   <a href="//jest.io"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> </a> -->
   <a href="//figma.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> </a>
-  <a href="//docker.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a>
+<!--   <a href="//docker.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> </a> -->
   <!--  <a href="//mysql.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> </a> -->
   <a href="//www.postgresql.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
 </div>
 
 ##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s4hlo/s4hlo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s4hlo/s4hlo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s4hlo/s4hlo/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 ![](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
