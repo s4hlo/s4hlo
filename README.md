@@ -1,39 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90)
-
-## Hello!👋😀
-### I'm only a Dunning-Kruger effect lover
 
 
-  
+<div align="center">
+<img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif"/>
+</div><br>
 
+- :mortar_board: Software Engineering student
+- 💜 Cybersecurity, neovim and linux ricing
+
+
+<!---
 - 🌌 El Psy Congroo
 - 🫡 I can learn anything
 - ⌛ Milestone
 - 🦅 Wings
 - ?
 - ?
+-->
 
-
-
-##
+<h3> 
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" height="20" /> Technologies I use:
+</h3>
 <div align="center">
-  <a href="https://github.com/s4hlo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s4hlo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4hlo&layout=compact&langs_count=7&theme=onedark"/>
+  <img src="https://img.shields.io/badge/Typescript-24273a?logo=typescript&style=for-the-badge&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/Node.js-24273a?logo=node.js&style=for-the-badge&logoColor=43853D">
+  <img src="https://img.shields.io/badge/React-24273a?logo=react&style=for-the-badge&logoColor=61dbfb">
+  <img src="https://img.shields.io/badge/Neovim-24273a?logo=neovim&style=for-the-badge&logoColor=5ec452">
+  <img src="https://img.shields.io/badge/linux-24273a?logo=linux&style=for-the-badge&logoColor=3284db"/>
+  <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/bash-24273a?logo=gnu-bash&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-24273a?logo=postgresql&style=for-the-badge&logoColor=3776AB">
 </div>
-
-## Technologies and tools
-   
-<div style="display: inline_block"><br>
-  <a href="//typescriptlang.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> </a>
-  <a href="//nestjs.com"><img width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> </a>
-  <a href="//reactjs.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>   
-  <a href="//vitejs.dev"><img width="40" src="pics/vite.svg"> </a>
-  <a href="//figma.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> </a>
-  <a href="//www.postgresql.org"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
-</div>
-
-##
 
 
 ![](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
