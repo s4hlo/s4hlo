@@ -15,6 +15,11 @@
 - 🦅 Wings
 - ?
 - ?
+
+
+![](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
+↴
+
 -->
 
 <h3> 
@@ -30,8 +35,4 @@
   <img src="https://img.shields.io/badge/bash-24273a?logo=gnu-bash&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-24273a?logo=postgresql&style=for-the-badge&logoColor=3776AB">
 </div>
-
-
-![](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
-↴
 
