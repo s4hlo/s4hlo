@@ -13,7 +13,7 @@
 - 🫡 I can learn anything
 - ⌛ Milestone
 - 🦅 Wings
-- ?
+- flying
 - ?
 
 ![x](https://komarev.com/ghpvc/?username=s4hlo&color=grey)
