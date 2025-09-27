@@ -5,7 +5,7 @@
 </div><br> -->
 
 - :mortar_board: Software Engineering student
-- 💜 Cybersecurity, neovim and linux ricing
+- 💜 Cybersecurity, ML/DP, neovim and linux ricing
 
 
 <!---
