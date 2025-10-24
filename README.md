@@ -28,7 +28,6 @@
   <img src="https://streak-stats.demolab.com/?user=s4hlo&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=cba6f7&currStreakLabel=cdd6f4" height="180em" />
 </div>
 
----
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=cba6f7"/>
