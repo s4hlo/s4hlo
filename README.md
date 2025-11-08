@@ -32,19 +32,16 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=cba6f7"/>
+<img src="https://img.shields.io/badge/python-24273a?logo=python&style=for-the-badge&logoColor=cba6f7"/>
 <img src="https://img.shields.io/badge/Typescript-24273a?logo=typescript&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/JavaScript-24273a?logo=javascript&style=for-the-badge&logoColor=cba6f7">
+<!--- <img src="https://img.shields.io/badge/JavaScript-24273a?logo=javascript&style=for-the-badge&logoColor=cba6f7"> --->
 <img src="https://img.shields.io/badge/Elixir-24273a?logo=elixir&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/bash-24273a?logo=gnu-bash&logoColor=cba6f7&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/React-24273a?logo=react&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/Node.js-24273a?logo=node.js&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/Next.js-24273a?logo=next.js&style=for-the-badge&logoColor=cba6f7">
+<!--- <img src="https://img.shields.io/badge/Node.js-24273a?logo=node.js&style=for-the-badge&logoColor=cba6f7">  --->
 <img src="https://img.shields.io/badge/NestJS-24273a?logo=nestjs&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/FastAPI-24273a?logo=fastapi&style=for-the-badge&logoColor=cba6f7">
 <img src="https://img.shields.io/badge/linux-24273a?logo=linux&style=for-the-badge&logoColor=cba6f7"/>
 <img src="https://img.shields.io/badge/Neovim-24273a?logo=neovim&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/Git-24273a?logo=git&style=for-the-badge&logoColor=cba6f7">
+<!--- <img src="https://img.shields.io/badge/Git-24273a?logo=git&style=for-the-badge&logoColor=cba6f7"> --->
 <img src="https://img.shields.io/badge/Docker-24273a?logo=docker&style=for-the-badge&logoColor=cba6f7">
 <img src="https://img.shields.io/badge/PostgreSQL-24273a?logo=postgresql&style=for-the-badge&logoColor=cba6f7">
 
