@@ -28,21 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4hlo&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" height="180em" />
 </div>
 
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/python-24273a?logo=python&style=for-the-badge&logoColor=cba6f7"/>
-<img src="https://img.shields.io/badge/Typescript-24273a?logo=typescript&style=for-the-badge&logoColor=cba6f7">
-<!--- <img src="https://img.shields.io/badge/JavaScript-24273a?logo=javascript&style=for-the-badge&logoColor=cba6f7"> --->
-<img src="https://img.shields.io/badge/Elixir-24273a?logo=elixir&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/React-24273a?logo=react&style=for-the-badge&logoColor=cba6f7">
-<!--- <img src="https://img.shields.io/badge/Node.js-24273a?logo=node.js&style=for-the-badge&logoColor=cba6f7">  --->
-<img src="https://img.shields.io/badge/NestJS-24273a?logo=nestjs&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/linux-24273a?logo=linux&style=for-the-badge&logoColor=cba6f7"/>
-<img src="https://img.shields.io/badge/Neovim-24273a?logo=neovim&style=for-the-badge&logoColor=cba6f7">
-<!--- <img src="https://img.shields.io/badge/Git-24273a?logo=git&style=for-the-badge&logoColor=cba6f7"> --->
-<img src="https://img.shields.io/badge/Docker-24273a?logo=docker&style=for-the-badge&logoColor=cba6f7">
-<img src="https://img.shields.io/badge/PostgreSQL-24273a?logo=postgresql&style=for-the-badge&logoColor=cba6f7">
-
-</div>
